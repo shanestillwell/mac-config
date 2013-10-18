@@ -8,17 +8,9 @@ Just some notes for when I install a new mac...
 * Alfredapp
 * 1password
 * aText
-* 
 
-## Programs installed in `/usr/local` (can use brew)
-* git
-* node
-* redis
-* mongodb
-* brew
-* foreman
-* ack
-* tree
+## Programs installed in `/usr/local` (using [brew](http://brew.sh/))
+* `brew install git node redis mongodb foreman ack tree`
 
 ## Nodejs global modules
 * `npm install -g grunt-cli bower hexo cordova`
