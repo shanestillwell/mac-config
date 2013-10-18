@@ -21,13 +21,11 @@ Just some notes for when I install a new mac...
 * tree
 
 ## Nodejs global modules
-* grunt-cli
-* bower
-* hexo
-* 
+* `npm install -g grunt-cli bower hexo cordova`
 
 ## Programs installed in `/Applications`  
-_View source to see nice formatted list_
+
+```
 1Password.app                 CrashPlan.app                 Launchpad.app                 SiteSucker.app
 Adobe Bridge CS4              Cyberduck.app                 LibreOffice.app               Skype.app
 Adobe Extension Manager CS4   DVD Player.app                MacVim.app                    Sparrow.app
@@ -51,3 +49,4 @@ Cloud.app                     GrowlVoice.app                Safari.app          
 Colloquy.app                  Image Capture.app             ScreenFlow.app                join.me.app
 Contacts.app                  Keynote.app                   Screenhero.app                xScope.app
 Coupons                       Kindle.app                    Sequel Pro.app
+```
