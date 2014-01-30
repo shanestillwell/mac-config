@@ -10,10 +10,45 @@ Just some notes for when I install a new mac...
 * aText
 
 ## Programs installed in `/usr/local` (using [brew](http://brew.sh/))
-* `brew install git node redis mongodb foreman ack tree`
+```
+brew install \
+ack \
+android-sdk \
+ant \
+ctags \
+cscope \
+scons \
+git \
+heroku-toolbelt \
+ios-sim \
+macvim \
+node \
+redis \
+mongodb \
+foreman \
+siege \
+trash \
+tree \ 
+watch \
+;
+```
 
 ## Nodejs global modules
-* `npm install -g grunt-cli bower hexo cordova`
+```
+npm install -g \
+grunt-cli \
+bower \
+hexo \
+cordova \
+jshint \
+chai \
+browserify \
+gulp \
+nodemon \
+watchify \
+redis-commander \
+;
+```
 
 ## Programs installed in `/Applications`  
 
