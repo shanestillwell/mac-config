@@ -50,6 +50,9 @@ redis-commander \
 ;
 ```
 
+## Dot Files
+https://github.com/shanestillwell/dotfiles
+
 ## Programs installed in `/Applications`  
 
 ```
