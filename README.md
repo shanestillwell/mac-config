@@ -11,25 +11,11 @@ Just some notes for when I install a new mac...
 
 ## Programs installed in `/usr/local` (using [brew](http://brew.sh/))
 ```
-brew install \
-ack \
-android-sdk \
-ant \
-ctags \
-cscope \
-scons \
-git \
-heroku-toolbelt \
-ios-sim \
-macvim \
-node \
-redis \
-mongodb \
-foreman \
-siege \
-trash \
-tree \ 
-watch \
+ack		bazaar		docker		giflib		ios-sim		macvim		openssl		readline	siege		zsh
+ant		boot2docker	elasticsearch	git		jpeg		mercurial	pcre		redis		sqlite
+aspell		brew-cask	fswatch		go		libpng		mongodb		pkg-config	sbt		trash
+autoconf	cscope		gdbm		heroku-toolbelt	libtiff		mysql		python		scala		tree
+automake	ctags		gettext		hugo		libtool		node		rabbitmq	scons		watch
 ;
 ```
 
@@ -46,7 +32,7 @@ browserify \
 gulp \
 nodemon \
 watchify \
-redis-commander \
+mocha \
 ;
 ```
 
