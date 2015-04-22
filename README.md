@@ -7,7 +7,19 @@ Just some notes for when I install a new mac...
 ## Programs that sync via dropbox  
 * Alfredapp
 * 1password
-* aText
+* Dash
+* aText (defunct)
+* iTerm2
+* 
+
+## Chrome
+* Just need to sign in to sync stuff
+* 
+
+## Problematic
+* Parallels (Windows)
+* CleanMyMac2
+* 
 
 ## Programs installed in `/usr/local` (using [brew](http://brew.sh/))
 ```
